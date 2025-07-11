@@ -1,0 +1,11 @@
+id_cliente,nome_cliente,rua_cliente,numero_cliente,bairro_cliente,cep_cliente,cidade_cliente,uf_cliente,telefone_cliente,email_cliente,contabancaria_cliente,id_vendas
+CLI001,Kamilly Carvalho,Vila da Cunha,81,Vila Piratininga Venda Nova,84551180,Ribeiro,RO,55319900261,eduarda65@farias.org,MEBV91301951371421,VENDAS007
+CLI002,Felipe Nascimento,Recanto de Cavalcanti,3,Coqueiros,60929057,Nunes de Peixoto,RO,55819674122,fernandesalexandre@pereira.com,EDNV20916621833896,VENDAS001
+CLI003,Gustavo Henrique Melo,Avenida Vieira,555,Planalto,84474492,da Rocha,ES,55519267782,hcostela@fogaca.com,GTKH56298157199827,VENDAS010
+CLI004,Miguel Freitas,Feira de Farias,13,Jardim Guanabara,54428566,Pereira,MS,55719494809,emanuellyda-rosa@da.br,CCEE69131311040622,VENDAS007
+CLI005,Sr. Joaquim Monteiro,Colônia Luiz Miguel Peixoto,55,Coqueiros,48251649,Souza,MT,55519396204,anthony85@yahoo.com.br,EVIP20509296477616,VENDAS005
+CLI006,Eloah Moraes,Núcleo de Carvalho,12,João Pinheiro,36102864,Carvalho,BA,55419771939,sofiasilveira@uol.com.br,CWYN65836186874636,VENDAS009
+CLI007,Diego Costela,Praça Aragão,14,São Gonçalo,47613778,Oliveira da Praia,RS,55849710911,miguel10@da.com,EYCG57841723043418,VENDAS008
+CLI008,Erick Sales,Condomínio de Moraes,64,Bonsucesso,08159897,Jesus da Serra,DF,55849068470,erick79@moraes.com,ZWKC14821241731663,VENDAS005
+CLI009,Laura Nogueira,Sítio Luiz Gustavo Teixeira,575,Vila Independencia 2ª Seção,90773452,da Costa,ES,55719148457,leticia87@oliveira.net,NRVD50127285062504,VENDAS009
+CLI010,Sr. Daniel Fernandes,Parque de Cavalcanti,61,Aguas Claras,81595490,Farias,RR,55419429480,das-nevessarah@ig.com.br,ZTWL79514883647417,VENDAS003
